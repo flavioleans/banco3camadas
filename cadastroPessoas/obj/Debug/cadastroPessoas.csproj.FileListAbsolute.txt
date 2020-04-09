@@ -1,0 +1,10 @@
+C:\Users\Flávio Leandro\source\repos\cadastroPessoas\cadastroPessoas\bin\Debug\cadastroPessoas.exe.config
+C:\Users\Flávio Leandro\source\repos\cadastroPessoas\cadastroPessoas\bin\Debug\cadastroPessoas.exe
+C:\Users\Flávio Leandro\source\repos\cadastroPessoas\cadastroPessoas\bin\Debug\cadastroPessoas.pdb
+C:\Users\Flávio Leandro\source\repos\cadastroPessoas\cadastroPessoas\obj\Debug\cadastroPessoas.csprojAssemblyReference.cache
+C:\Users\Flávio Leandro\source\repos\cadastroPessoas\cadastroPessoas\obj\Debug\cadastroPessoas.Form1.resources
+C:\Users\Flávio Leandro\source\repos\cadastroPessoas\cadastroPessoas\obj\Debug\cadastroPessoas.Properties.Resources.resources
+C:\Users\Flávio Leandro\source\repos\cadastroPessoas\cadastroPessoas\obj\Debug\cadastroPessoas.csproj.GenerateResource.cache
+C:\Users\Flávio Leandro\source\repos\cadastroPessoas\cadastroPessoas\obj\Debug\cadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\Flávio Leandro\source\repos\cadastroPessoas\cadastroPessoas\obj\Debug\cadastroPessoas.exe
+C:\Users\Flávio Leandro\source\repos\cadastroPessoas\cadastroPessoas\obj\Debug\cadastroPessoas.pdb
